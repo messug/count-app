@@ -1,0 +1,15 @@
+.app-container{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color:skyblue;
+
+}
+.logo{
+  color: rgb(228, 149, 52);
+  size: 8rem;
+  gap: 2rem;
+  width: 200px;
+  height: 200px;
+  border-radius: 6rem;
+}
